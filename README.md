@@ -1,2 +1,3 @@
 # MicrosphereScoreProfessionalFootballAndBasketball-platform
 "MicrosphereScoreProfessionalFootballAndBasketball-platform"technical support
+“微足球比分-专业足球篮球平台”应用程序为足球篮球爱好者提供了一系列专业的服务，首先，在该应用程序中有着很多其他人发布的球队信息，球队信息经过简单的分类后能够被用户看到，用户可以报名自己喜欢的球队，也可以自己创建球队，吸引志同道合的朋友加入，用户加入球队或创建球队后可以选择一个球队去报名尚未开始的比赛，也可以自己创建比赛，等待其他队伍加入……任何意见建议, 请联系我们: "微足球比分-专业足球篮球平台"官方邮箱: gklql844912@sina.cn
